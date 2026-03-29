@@ -1,0 +1,3 @@
+public enum Status {
+    ADMITTED, UNDER_TREATMENT, RECOVERING, DISCHARGED
+}
